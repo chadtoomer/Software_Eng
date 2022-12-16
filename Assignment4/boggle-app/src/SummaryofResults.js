@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import React from "react";
 import "./SummaryofResults.css";
 
