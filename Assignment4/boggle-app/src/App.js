@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import React, { useState, useEffect } from "react";
 import logo from "./logo.png";
 import findAllSolutions from "./boggle_solver.js";
