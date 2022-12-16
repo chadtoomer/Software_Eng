@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 const GAME_STATE = {
     BEFORE: 'before',
     IN_PROGRESS: 'in_progress',
