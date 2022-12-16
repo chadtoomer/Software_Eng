@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
