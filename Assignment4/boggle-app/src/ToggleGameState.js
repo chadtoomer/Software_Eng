@@ -1,4 +1,5 @@
-
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import React, {useState} from 'react';
 import Button from "@material-ui/core/Button";
 import {GAME_STATE} from './GameState.js';
