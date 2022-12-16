@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import React from 'react';
 import './UserFound.css';
 function UserFound({ words, headerText}) {
