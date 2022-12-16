@@ -1,3 +1,5 @@
+// Name: Chad Toomer
+// Collaberated with Yasmin Senior
 import React, { useState } from 'react';
 import TextField from "@material-ui/core/TextField";
 import './UserInput.css';
